@@ -1,3 +1,4 @@
-# scrape-amazon
-this code scrapes amazon for dynamic microphones. i extracted their prices, links, and descriptions.
-you can change url and page value to suit your needs
+# objective
+scrape amazon for dynamic microphones, extract their prices, links, and descriptions.
+# skills
+python, requests_html, beautifulsoup, data_cleaning, webscraping
